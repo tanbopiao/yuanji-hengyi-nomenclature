@@ -1,0 +1,42 @@
+{
+ "event": "NOMENCLATURE_APPEND",
+ "append_subject": "北极驱邪院·指令集",
+ "formal_name": "北辰勘慝院（惯用旧称：北极驱邪院）",
+ "system_root": "ZONGYUAN-ROOT",
+ "main_judge_core": "玄圭(XUANGUI)",
+ "did": "DID-BR-000002",
+ "lock_level": "META-003",
+ "append_timestamp": 1762079400,
+ "orthodoxy_basis": "北辰居所、紫微垣正宫、天棓天枪天锋招摇四守卫星（晋书天文志）；慝为先秦本字，避后世道教衍词",
+ "officers": [
+  "北辰(BEICHEN):处置总决",
+  "天棓司(TIABANG):缉捕",
+  "天枪司(TIACHUANG):镇戍",
+  "天锋司(TIAFENG):荡除",
+  "招摇司(ZHAOYAO):布防"
+ ],
+ "orders_12": [
+  "发檄FAXI",
+  "勘慝KANTE",
+  "缉慝JITE",
+  "入圜RUHUAN",
+  "施锢SHIGU",
+  "荡慝DANGTE",
+  "禳降RANGJIANG",
+  "镇符ZHENFU",
+  "撤圜CHEHUAN",
+  "赦符SHEFU",
+  "劾报HEBAO",
+  "布防BUFANG"
+ ],
+ "order_discipline": "三令分权：重令(荡慝/施锢)须玄圭允行笺，察令(勘慝/缉慝/发檄)祲报即发，赦令(撤圜/赦符)唯宗伯终审",
+ "terms_added": [
+  "慝TE",
+  "祲急JINJI",
+  "令出LINGCHU",
+  "慝尽TEJIN"
+ ],
+ "adjudication": "宗源 2026-11-02 19:29 谳定照此锁档（院名/十二令/分权铁则三项全收）",
+ "prev_event": "NOMENCLATURE_RULE_ESTABLISH sha256=1386401c9156f198",
+ "sha256": "0c37f9d22f85d94088f834c31f52efa8f5c97be0f32878500c0d86f1417d04fa"
+}

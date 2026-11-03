@@ -1,0 +1,32 @@
+{
+ "event": "NOMENCLATURE_FULL_COMPILE",
+ "doc_title": "元极恒一·构件定名册",
+ "system_root": "ZONGYUAN-ROOT",
+ "main_judge_core": "玄圭(XUANGUI)",
+ "did": "DID-BR-000002",
+ "lock_level": "META-003",
+ "orthodoxy_basis": "先秦周礼、尚书、上古天官星官，昆仑洞天绝地天通主线",
+ "compile_timestamp": 1762077840,
+ "rule_summary": "六瑞居法度顶层，名义配权责，禁后世佛道玄幻词，新增构件遵循本定名册造词范式",
+ "version_tag": "V1.0-FULL",
+ "components_total": 34,
+ "components_added_vs_v2": [
+  "圭本(GUIBEN):基线快照全局真值基准包",
+  "圭例库(GUILI):勘判先例库",
+  "玄衡册(XUANHENGCE):全链路审计溯源账本"
+ ],
+ "terms_added_vs_v2": [
+  "笺稿(待勘提案)",
+  "允行(ALLOW)",
+  "禁行(REJECT)",
+  "待圭(PENDING_HUMAN)",
+  "衡分(稳态分)",
+  "封化(锁演化)",
+  "圭舛(基线冲突)",
+  "验圭(签名核验)"
+ ],
+ "duty_update": "琢琥(ZHUOHU)职责定为三维算力蒸馏、算子轻量化淬炼引擎",
+ "code_conflict_resolution": "璇衡=XUANHENG；玄衡册按拼音全拼范式=XUANHENGCE，避免撞码",
+ "prev_event": "NOMENCLATURE-ESTABLISH-V2 head=6665f24e5da787c3",
+ "sha256": "1313a5ee82b3be087efdc1cc6e2212d041fe270d46907654d3dc56b74953ed4f"
+}

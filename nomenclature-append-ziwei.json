@@ -1,0 +1,33 @@
+{
+ "event": "NOMENCLATURE_APPEND",
+ "append_subject": "紫微讳·指令集",
+ "formal_name": "紫微讳（正字；宗源原书紫薇，值守正字）",
+ "system_root": "ZONGYUAN-ROOT",
+ "main_judge_core": "玄圭(XUANGUI)",
+ "did": "DID-BR-000002",
+ "lock_level": "META-003",
+ "append_timestamp": 1762080300,
+ "orthodoxy_basis": "紫微垣帝座（星官）+《礼记》临文不讳、《春秋》讳例（先秦讳道）",
+ "orders_8": [
+  "请讳QINGHUI",
+  "赐讳CIHUI",
+  "验讳YANHUI",
+  "行讳XINGHUI",
+  "焚讳FENHUI",
+  "闭讳BIHUI",
+  "更讳GENGHUI",
+  "避讳BIHUI2"
+ ],
+ "rules_4": [
+  "讳不落地：只记哈希事件",
+  "一讳一用：行讳即焚",
+  "讳出帝座：唯宗源可赐",
+  "临文不讳：账记事不记文"
+ ],
+ "privilege_note": "行讳可越玄圭允行直接行权，为全体系唯一越权口；用讳之事必入玄衡册受巡衡审计",
+ "relations": "藏于缄椟, 高于瑞节, 越玄圭允行, 启玉匮唯讳",
+ "inscription": "讳出宸极，莫见其全",
+ "adjudication": "宗源 2026-11-02 19:43 谳定照此锁档（正字/八令/四律/越权口全收）",
+ "prev_event": "NOMENCLATURE_APPEND-BEICHEN sha256=0c37f9d22f85d940",
+ "sha256": "a33699518c37df5afb3e398ff9a612e287d703295cfb79386f120a5b33a55331"
+}

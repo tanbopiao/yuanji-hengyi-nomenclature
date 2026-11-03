@@ -1,0 +1,19 @@
+{
+ "event": "NOMENCLATURE_RULE_ESTABLISH",
+ "doc_attach": [
+  "构件八字铭文表",
+  "道统命名造词范式"
+ ],
+ "system_root": "ZONGYUAN-ROOT",
+ "main_judge_core": "玄圭(XUANGUI)",
+ "did": "DID-BR-000002",
+ "lock_level": "META-003",
+ "compile_timestamp": 1762078500,
+ "rule_priority": "六瑞本位最高，其次天官、地舆、礼制、工典、时序",
+ "forbid_list": "佛道晚出词汇、网文玄幻意象",
+ "naming_format": "二字定名，配套大写英文代号，附八字对仗铭文",
+ "version_tag": "V1.0-RULE",
+ "archive_doc": "元极恒一构件定名册_铭文与范式_V1.0.md",
+ "code_note": "玄衡册=XUANHENGCE（拼音全拼范式消解与璇衡XUANHENG撞码，值守2026-11-02勘定）",
+ "sha256": "1386401c9156f198d5550e8496bf2b94491a805c5bc9f101138fd8931194ee31"
+}
