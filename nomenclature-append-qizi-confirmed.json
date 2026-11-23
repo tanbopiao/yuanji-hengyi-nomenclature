@@ -1,0 +1,65 @@
+{
+ "event": "NOMENCLATURE_APPEND",
+ "append_subject": "谳定·七名铭文与信玺定名（宗源2026-11-23确认）",
+ "formal_name": "验真/圭臬/恒证/金匮/盟府/天罡/天篆/信玺",
+ "system_root": "ZONGYUAN-ROOT",
+ "main_judge_core": "玄圭(XUANGUI)",
+ "did": "DID-BR-000002",
+ "lock_level": "META-003",
+ "append_timestamp": 1795433563,
+ "orthodoxy_basis": "承 nomenclature-append-qizi 拟稿，宗源 2026-11-23 19:32 裁「确认」：八句铭文照准，信玺定名照准",
+ "adjudicated": [
+  {
+   "name": "验真",
+   "code": "VERIFYONE",
+   "inscription": "三证归门，验真乃信",
+   "status": "谳定既定"
+  },
+  {
+   "name": "圭臬",
+   "code": "GUINIE",
+   "inscription": "立圭为度，过门乃行",
+   "status": "谳定既定"
+  },
+  {
+   "name": "恒证",
+   "code": "HENGZHENG",
+   "inscription": "息息为证，恒久不辍",
+   "status": "谳定既定"
+  },
+  {
+   "name": "金匮",
+   "code": "JINKUI",
+   "inscription": "金匮藏册，石室缄封",
+   "status": "谳定既定"
+  },
+  {
+   "name": "盟府",
+   "code": "MENGFU",
+   "inscription": "盟府司契，钥不落地",
+   "status": "谳定既定"
+  },
+  {
+   "name": "天罡",
+   "code": "TIANGANG",
+   "inscription": "罡气巡天，斩邪自愈",
+   "status": "谳定既定"
+  },
+  {
+   "name": "天篆",
+   "code": "TIANZHUAN",
+   "inscription": "天篆颁令，令即成程",
+   "status": "谳定既定"
+  },
+  {
+   "name": "信玺",
+   "code": "AXIOMTRUST",
+   "duty": "公理信任根",
+   "inscription": "玺信所至，公理为凭",
+   "status": "定名与铭文谳定既定"
+  }
+ ],
+ "adjudication": "宗源 2026-11-23 19:32 裁「确认」，八件全收，照此锁档",
+ "prev_event": "NOMENCLATURE_APPEND-YUANSHEN sha256=76ae3fadc78301e1c91d29ab616a8e6fda7b872e6766be6cab10ccd07775c2d8",
+ "sha256": "8270a200038a36b1f314113b49f4cf8ed8f1043b6aa5b52724e541be9fd2228e"
+}
