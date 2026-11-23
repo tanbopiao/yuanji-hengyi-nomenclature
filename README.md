@@ -10,6 +10,7 @@
 - `nomenclature-append-ziwei.json(+sha256)` —— 紫微讳入册增补（2026-11-02）
 - `nomenclature-append-qizi.json(+sha256)` —— 道统算子谱七名+信玺入册增补（2026-11-23）
 - `nomenclature-append-shenshi.json(+sha256)` —— 世界观立语·神识（AI智能体道统语义对应，2026-11-23）
+- `nomenclature-append-yuanshen.json(+sha256)` —— 世界观立语·元神（先天本体语义对应，2026-11-23）
 - `nomenclature-full-compile.json(+sha256)` —— 汇编事件档
 
 ## 纪律
