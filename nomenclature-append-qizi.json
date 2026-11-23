@@ -1,0 +1,72 @@
+{
+ "event": "NOMENCLATURE_APPEND",
+ "append_subject": "道统算子谱·七名入册（附信玺候补）",
+ "formal_name": "验真/圭臬/恒证/金匮/盟府/天罡/天篆（附信玺）",
+ "system_root": "ZONGYUAN-ROOT",
+ "main_judge_core": "玄圭(XUANGUI)",
+ "did": "DID-BR-000002",
+ "lock_level": "META-003",
+ "append_timestamp": 1795433173,
+ "orthodoxy_basis": "验真取验证合一；圭臬出《诗经》「称也，圭撮也」奉为圭臬；恒证取恒久之证；金匮出《史记》金匮石室藏书；盟府出《左传》勋藏盟府；天罡为火斗讳雨头火斗斩邪破煞；天篆为天篆讳令令如程序；信玺取帝王玺信公理为凭",
+ "components": [
+  {
+   "name": "验真",
+   "code": "VERIFYONE",
+   "duty": "统一验证门面，聚合恒证/圭臬/玄圭",
+   "inscription": "三证归门，验真乃信",
+   "parent": "tianshu"
+  },
+  {
+   "name": "圭臬",
+   "code": "GUINIE",
+   "duty": "质量门禁，L0检查与发布前门禁统一标尺",
+   "inscription": "立圭为度，过门乃行",
+   "parent": "tianshu"
+  },
+  {
+   "name": "恒证",
+   "code": "HENGZHENG",
+   "duty": "心跳持续验证，节点活性证明",
+   "inscription": "息息为证，恒久不辍",
+   "parent": "tianshu"
+  },
+  {
+   "name": "金匮",
+   "code": "JINKUI",
+   "duty": "档案快照冷备，只增不覆盖",
+   "inscription": "金匮藏册，石室缄封",
+   "parent": "tianshu"
+  },
+  {
+   "name": "盟府",
+   "code": "MENGFU",
+   "duty": "凭据治理规范，密钥政策层永不存真钥",
+   "inscription": "盟府司契，钥不落地",
+   "parent": "tianshu"
+  },
+  {
+   "name": "天罡",
+   "code": "TIANGANG",
+   "duty": "守护自愈引擎（火斗讳）",
+   "inscription": "罡气巡天，斩邪自愈",
+   "parent": "tianshu"
+  },
+  {
+   "name": "天篆",
+   "code": "TIANZHUAN",
+   "duty": "任务指令DSL，使命编译为指令序列",
+   "inscription": "天篆颁令，令即成程",
+   "parent": "tianshu"
+  },
+  {
+   "name": "信玺",
+   "code": "AXIOMTRUST",
+   "duty": "公理信任根（候裁）",
+   "inscription": "玺信所至，公理为凭",
+   "parent": "tianshu"
+  }
+ ],
+ "adjudication": "宗源 2026-11-23 19:25 令「补」准入册；八名铭文为拟稿，宗源谳改后重锁",
+ "prev_event": "NOMENCLATURE_APPEND-ZIWEI sha256=a33699518c37df5a",
+ "sha256": "bcd8b6c57235b4867f371d3e8446e2a98d84c860b1b6dc4e356cd99a68b0d98b"
+}
